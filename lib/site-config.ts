@@ -4,14 +4,14 @@
 export const siteConfig = {
   // Informações do Sistema
   systemName: "Sistema de Overs",
-  year: "2024",
+  year: "2025",
 
   // Hero Section
   hero: {
     headline: "Renove seu sistema de Overs",
     subheadline: "Mantenha seu programa de incentivo ativo e seguro",
     description:
-      "Seu sistema gerou resultados extraordinários em 2024. Garanta a continuidade, segurança e evolução do seu programa de incentivo com a renovação da hospedagem e manutenção.",
+      "Seu sistema gerou resultados extraordinários em 2025. Garanta a continuidade, segurança e evolução do seu programa de incentivo com a renovação da hospedagem e manutenção.",
     cta: "Escolha seu plano de renovação",
   },
 
@@ -91,7 +91,7 @@ export const siteConfig = {
     reasons: [
       {
         title: "Continuidade Garantida",
-        description: "Mantenha seu sistema ativo sem interrupções e preserve todos os dados e histórico de 2024.",
+        description: "Mantenha seu sistema ativo sem interrupções e preserve todos os dados e histórico de 2025.",
       },
       {
         title: "Segurança e Estabilidade",

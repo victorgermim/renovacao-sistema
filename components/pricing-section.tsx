@@ -85,15 +85,6 @@ export function PricingSection() {
           ))}
         </div>
 
-        {/* Contact info */}
-        <div className="text-center mt-16">
-          <p className="text-muted-foreground">
-            Dúvidas sobre qual plano escolher?{" "}
-            <a href={`mailto:${siteConfig.contact.email}`} className="text-primary hover:underline font-medium">
-              Fale conosco
-            </a>
-          </p>
-        </div>
       </div>
     </section>
   )
